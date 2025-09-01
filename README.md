@@ -1,7 +1,7 @@
 - 👋 Hi, My Name Is @RadostinShalamanov
 - 📓 Second Year Student at Faculty of Mathematics and Informatics, University of Plovdiv - "Paisii Hilendarski"
 - 👀 I’m interested in Coding, Cars, Fashion and Reading books
-- 🌱 I’m currently learning C++ and Java
+- 🌱 The language that I use the most is C#, and I am eager to get myself into the world of Cyber Security
 - 📫 How to reach me: radishalamanov@gmail.com
 - ⚡ Fun fact: I spent a year abroad studying in a high school in America
 
